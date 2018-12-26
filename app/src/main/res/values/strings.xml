@@ -19,4 +19,7 @@
     <string name="account_status">Account Status</string>
     <string name="change_password">Change Password</string>
     <string name="remove_image">Remove Image</string>
+    <string name="display_name">Display Name</string>
+    <string name="message_text">Message text</string>
+    <string name="time">00:00</string>
 </resources>
